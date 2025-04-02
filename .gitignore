@@ -1,0 +1,5 @@
+.env
+venv/
+app_db.py
+app.py
+teste.ipynb
